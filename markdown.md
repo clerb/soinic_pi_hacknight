@@ -223,3 +223,6 @@ end
 class: center, middle
 
 # Thank you!
+
+Slides available at 
+[https://github.com/clerb/soinic_pi_hacknight](https://github.com/clerb/soinic_pi_hacknight)
