@@ -162,7 +162,8 @@ play :d5; sleep 0.25
 play :d5; sleep 0.5
 ```
 ---
-Mary Had Little Lamb
+#Mary Had Little Lamb
+
 .center[![Center-aligned image](images/little_lamb.png "Mary had a little lamb")]
 ---
 
