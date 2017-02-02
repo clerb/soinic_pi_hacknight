@@ -1,0 +1,60 @@
+/*
+#9F0700
+#FF0000
+#000000
+#CE564D
+#E88580
+*/
+
+@import url(https://fonts.googleapis.com/css?family=Alfa+Slab+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+body {
+  font-family: 'Oswald';
+  background-color: #9F0700;
+}
+.remark-slide {
+  color: #E8F5F0;
+}
+.remark-slide-scaler {
+  box-shadow: 0 0 30px #1D1616;
+}
+.remark-slide-container {
+  background-color: #CE564D;
+}
+.remark-slide-content {
+  background-color: #9F0700;
+}
+blockquote {
+  margin: 0px;
+  font-size: 24px;
+}
+h1, h2, h3 {
+  font-family: 'Alfa Slab One';
+  font-weight: normal;
+  color: 'blue';
+}
+.ruby.remark-code {
+  padding: 10px 40px;
+}
+.remark-code, .remark-inline-code {
+  font-family: 'Ubuntu Mono';
+  background-color: #f0f0f0;
+  display: inline-block;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+li {
+  font-size: 23px;
+  line-height: 200%;
+}
+li li {
+  font-size: 21px;
+}
+img {
+  width: 100%;
+}
+#source {
+  display: none;
+}
