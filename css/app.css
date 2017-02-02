@@ -5,13 +5,12 @@
 #CE564D
 #E88580
 */
-
-@import url(https://fonts.googleapis.com/css?family=Alfa+Slab+One);
-@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Lato:700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
 
 body {
-  font-family: 'Oswald';
+  font-family: 'Montserrat';
   background-color: #9F0700;
 }
 .remark-slide {
@@ -31,7 +30,7 @@ blockquote {
   font-size: 24px;
 }
 h1, h2, h3 {
-  font-family: 'Alfa Slab One';
+  font-family: 'Lato';
   font-weight: normal;
   color: 'blue';
 }
