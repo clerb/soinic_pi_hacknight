@@ -162,6 +162,9 @@ play :d5; sleep 0.25
 play :d5; sleep 0.5
 ```
 ---
+Mary Had Little Lamb
+.center[![Center-aligned image](images/little_lamb.png "Mary had a little lamb")]
+---
 
 # Sample
 
@@ -224,5 +227,5 @@ class: center, middle
 
 # Thank you!
 
-Slides available at 
+Slides available at
 [https://github.com/clerb/soinic_pi_hacknight](https://github.com/clerb/soinic_pi_hacknight)
